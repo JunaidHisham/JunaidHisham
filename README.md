@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JunaidHisham
 - 👀 I’m interested in WebDesigning
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning JS Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me by junaidhisham1234@gmail.com
 
